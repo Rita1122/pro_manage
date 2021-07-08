@@ -1,6 +1,6 @@
 # pro_manage
  
-
+jsp+servlet+mvc mysql jetty
 
 **web****组件开发课程设计**
 
